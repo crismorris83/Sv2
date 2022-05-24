@@ -1,6 +1,14 @@
 <?php
 
+
+    ///si///
+    ///Si5//
+
+    ///si2///
+
+
      //Si4//
+
     //si3//
 
     //////CONTROLLER//////
@@ -25,5 +33,9 @@
 
     $objrun = new template();
     $objrun -> getIntro();
+
+
+
+?>
 
 
